@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edt_login">Digite seu Login</string>
+    <string name="edt_senha">Digite sua Senha</string>
+    <string name="usuario_not_found">Usuario não encontrado.</string>
+    <string name="usuario_logado">Usuario Logado com Sucesso</string>
+    <string name="digite_email">Digite seu Email</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="email_not_found">Email não encontrado.</string>
+    <string name="altere_imagem_url">Altere Imagem (URL)</string>
+    <string name="placeholder_email">Email do usuario</string>
+    <string name="placeholder_nome">Nome do usuario</string>
+</resources>
